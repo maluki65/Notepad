@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .inputfields {
+    margin-bottom: 20px;
+  }
+  
+  input, textarea {
+    display: flex;
+    width: 300px;
+    margin-bottom: 10px;
+  }
+  .container{
+    display: flex;
+    gap:20px;
+    padding: 10px;
+    
+  }
+  #notesContainer .note{
+    border: 1px solid #252222;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 20px #252222;
+  }
+ 
+  
+  button {
+    padding: 5px 10px;
+  }
+  
